@@ -1,0 +1,34 @@
+/* saving parcent input field css */
+
+.saving-area input {
+    width: 80px;
+    border: none;
+    padding: 4px;
+}
+
+
+/* all input background */
+
+.input-background {
+    background-color: rgb(226, 224, 224) !important;
+}
+
+
+/* error message hide */
+
+#error-area {
+    display: none;
+    font-weight: bold;
+}
+
+
+/* default input field width */
+
+.form-control {
+    width: 75% !important;
+}
+
+.btn-primary {
+    background-color: #59a5ff !important;
+    border: none !important;
+}
